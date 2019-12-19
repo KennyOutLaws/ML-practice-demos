@@ -3,11 +3,13 @@ This repo is used to realize some machine learning algorithms.
 One practice a day keeps offers in way...
 
 
-##KNN
+## KNN
 K-neareast neiborhood algorithm
-##Decision Tree
+
+## Decision Tree
 Calculated the info gain by ID3
-##Naive Bayes
+
+## Naive Bayes
 
 
 
